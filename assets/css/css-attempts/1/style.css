@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jhead{
+    
+    margin:auto;
+    width:50%;
+   
+    background-color: #333;
+    overflow: hidden;
+   
+    
+}
+.jhead a{
+    float:left;
+    color:white;
+    background-color:blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.jhead-right{
+    
+    text-align: right;
+   
+}
+ul{
+   display: inline;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    display: inline;
+}

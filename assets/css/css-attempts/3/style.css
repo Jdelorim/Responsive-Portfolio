@@ -1,0 +1,35 @@
+body{
+    margin:auto;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.jnav{
+    background-color:gray;
+    color: white;
+    width:960px;
+   
+   padding:45px;
+    margin:auto;
+    z-index: 1;
+    
+
+}
+.jhead{
+    background-color:teal;
+    width:250px;
+    
+    z-index: 2;
+
+
+}
+
+.jnav-right>li{
+    display: inline-block; 
+    float:right;
+    padding:10px 12px;
+    list-style: none;
+    text-align: center;
+   
+
+}
